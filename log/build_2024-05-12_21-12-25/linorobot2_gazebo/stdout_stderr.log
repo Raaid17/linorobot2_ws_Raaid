@@ -1,0 +1,65 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found rclpy: 3.3.12 (/opt/ros/humble/share/rclpy/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/raaid/linorobot2_ws/build/linorobot2_gazebo
+Built target ament_cmake_python_copy_scripts
+running egg_info
+creating scripts.egg-info
+writing scripts.egg-info/PKG-INFO
+writing dependency_links to scripts.egg-info/dependency_links.txt
+writing top-level names to scripts.egg-info/top_level.txt
+writing manifest file 'scripts.egg-info/SOURCES.txt'
+reading manifest file 'scripts.egg-info/SOURCES.txt'
+writing manifest file 'scripts.egg-info/SOURCES.txt'
+Built target ament_cmake_python_build_scripts_egg
+-- Install configuration: ""
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/pythonpath.sh
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/pythonpath.dsv
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/command_timeout.py
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/__init__.py
+Listing '/home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts'...
+Compiling '/home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/__init__.py'...
+Compiling '/home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/command_timeout.py'...
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/launch
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/launch/gazebo.launch.py
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/rviz
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/rviz/view_urdf.rviz
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/playground.world
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/gas_station.world
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/lib/linorobot2_gazebo/command_timeout.py
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/ament_index/resource_index/package_run_dependencies/linorobot2_gazebo
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/ament_index/resource_index/parent_prefix_path/linorobot2_gazebo
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.sh
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.dsv
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.sh
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.dsv
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.bash
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.sh
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.zsh
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.dsv
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/package.dsv
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/ament_index/resource_index/packages/linorobot2_gazebo
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig.cmake
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig-version.cmake
+-- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/package.xml

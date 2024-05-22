@@ -1,0 +1,39 @@
+[0.099s] Invoking command in '/home/raaid/linorobot2_ws/build/linorobot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/raaid/linorobot2_ws/src/linorobot2/linorobot2 -DCMAKE_INSTALL_PREFIX=/home/raaid/linorobot2_ws/install/linorobot2
+[0.287s] -- The C compiler identification is GNU 11.4.0
+[0.382s] -- The CXX compiler identification is GNU 11.4.0
+[0.396s] -- Detecting C compiler ABI info
+[0.517s] -- Detecting C compiler ABI info - done
+[0.530s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.530s] -- Detecting C compile features
+[0.532s] -- Detecting C compile features - done
+[0.535s] -- Detecting CXX compiler ABI info
+[0.655s] -- Detecting CXX compiler ABI info - done
+[0.657s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.658s] -- Detecting CXX compile features
+[0.659s] -- Detecting CXX compile features - done
+[0.672s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.911s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.175s] -- Configuring done
+[1.179s] -- Generating done
+[1.180s] -- Build files have been written to: /home/raaid/linorobot2_ws/build/linorobot2
+[1.186s] Invoked command in '/home/raaid/linorobot2_ws/build/linorobot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/raaid/linorobot2_ws/src/linorobot2/linorobot2 -DCMAKE_INSTALL_PREFIX=/home/raaid/linorobot2_ws/install/linorobot2
+[1.191s] Invoking command in '/home/raaid/linorobot2_ws/build/linorobot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/raaid/linorobot2_ws/build/linorobot2 -- -j6 -l6
+[1.246s] Invoked command in '/home/raaid/linorobot2_ws/build/linorobot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/raaid/linorobot2_ws/build/linorobot2 -- -j6 -l6
+[1.328s] Invoking command in '/home/raaid/linorobot2_ws/build/linorobot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/raaid/linorobot2_ws/build/linorobot2
+[1.341s] -- Install configuration: ""
+[1.341s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/ament_index/resource_index/package_run_dependencies/linorobot2
+[1.341s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/ament_index/resource_index/parent_prefix_path/linorobot2
+[1.341s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/environment/ament_prefix_path.sh
+[1.341s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/environment/ament_prefix_path.dsv
+[1.341s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/environment/path.sh
+[1.342s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/environment/path.dsv
+[1.342s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/local_setup.bash
+[1.342s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/local_setup.sh
+[1.343s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/local_setup.zsh
+[1.343s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/local_setup.dsv
+[1.343s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/package.dsv
+[1.343s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/ament_index/resource_index/packages/linorobot2
+[1.343s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/cmake/linorobot2Config.cmake
+[1.343s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/cmake/linorobot2Config-version.cmake
+[1.343s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2/share/linorobot2/package.xml
+[1.346s] Invoked command in '/home/raaid/linorobot2_ws/build/linorobot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/raaid/linorobot2_ws/build/linorobot2

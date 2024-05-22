@@ -1,0 +1,71 @@
+[0.084s] Invoking command in '/home/raaid/linorobot2_ws/build/linorobot2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/raaid/linorobot2_ws/src/linorobot2/linorobot2_gazebo -DCMAKE_INSTALL_PREFIX=/home/raaid/linorobot2_ws/install/linorobot2_gazebo
+[1.146s] -- The C compiler identification is GNU 11.4.0
+[1.149s] -- The CXX compiler identification is GNU 11.4.0
+[1.150s] -- Detecting C compiler ABI info
+[1.150s] -- Detecting C compiler ABI info - done
+[1.150s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.150s] -- Detecting C compile features
+[1.150s] -- Detecting C compile features - done
+[1.150s] -- Detecting CXX compiler ABI info
+[1.150s] -- Detecting CXX compiler ABI info - done
+[1.150s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.150s] -- Detecting CXX compile features
+[1.150s] -- Detecting CXX compile features - done
+[1.150s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.150s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.150s] -- Found rclpy: 3.3.12 (/opt/ros/humble/share/rclpy/cmake)
+[1.306s] -- Configuring done
+[1.323s] -- Generating done
+[1.323s] -- Build files have been written to: /home/raaid/linorobot2_ws/build/linorobot2_gazebo
+[1.329s] Invoked command in '/home/raaid/linorobot2_ws/build/linorobot2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/raaid/linorobot2_ws/src/linorobot2/linorobot2_gazebo -DCMAKE_INSTALL_PREFIX=/home/raaid/linorobot2_ws/install/linorobot2_gazebo
+[1.343s] Invoking command in '/home/raaid/linorobot2_ws/build/linorobot2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/raaid/linorobot2_ws/build/linorobot2_gazebo -- -j6 -l6
+[1.515s] Built target ament_cmake_python_copy_scripts
+[1.882s] running egg_info
+[1.882s] creating scripts.egg-info
+[1.883s] writing scripts.egg-info/PKG-INFO
+[1.883s] writing dependency_links to scripts.egg-info/dependency_links.txt
+[1.884s] writing top-level names to scripts.egg-info/top_level.txt
+[1.884s] writing manifest file 'scripts.egg-info/SOURCES.txt'
+[1.885s] reading manifest file 'scripts.egg-info/SOURCES.txt'
+[1.886s] writing manifest file 'scripts.egg-info/SOURCES.txt'
+[1.917s] Built target ament_cmake_python_build_scripts_egg
+[1.929s] Invoked command in '/home/raaid/linorobot2_ws/build/linorobot2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/raaid/linorobot2_ws/build/linorobot2_gazebo -- -j6 -l6
+[2.037s] Invoking command in '/home/raaid/linorobot2_ws/build/linorobot2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/raaid/linorobot2_ws/build/linorobot2_gazebo
+[2.048s] -- Install configuration: ""
+[2.048s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/pythonpath.sh
+[2.048s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/pythonpath.dsv
+[2.048s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info
+[2.048s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.048s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.048s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/top_level.txt
+[2.048s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/PKG-INFO
+[2.048s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts
+[2.049s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/command_timeout.py
+[2.049s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/__init__.py
+[2.089s] Listing '/home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts'...
+[2.089s] Compiling '/home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/__init__.py'...
+[2.089s] Compiling '/home/raaid/linorobot2_ws/install/linorobot2_gazebo/local/lib/python3.10/dist-packages/scripts/command_timeout.py'...
+[2.092s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/launch
+[2.093s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/launch/gazebo.launch.py
+[2.093s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/rviz
+[2.093s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/rviz/view_urdf.rviz
+[2.093s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds
+[2.093s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/playground.world
+[2.093s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/gas_station.world
+[2.094s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/lib/linorobot2_gazebo/command_timeout.py
+[2.094s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/ament_index/resource_index/package_run_dependencies/linorobot2_gazebo
+[2.095s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/ament_index/resource_index/parent_prefix_path/linorobot2_gazebo
+[2.095s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.sh
+[2.095s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.dsv
+[2.095s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.sh
+[2.095s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.dsv
+[2.096s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.bash
+[2.096s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.sh
+[2.096s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.zsh
+[2.096s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.dsv
+[2.096s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/package.dsv
+[2.096s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/ament_index/resource_index/packages/linorobot2_gazebo
+[2.096s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig.cmake
+[2.096s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig-version.cmake
+[2.097s] -- Installing: /home/raaid/linorobot2_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/package.xml
+[2.099s] Invoked command in '/home/raaid/linorobot2_ws/build/linorobot2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/raaid/microros_ws/install/sensor_msgs_py:/home/raaid/ros2_ws/install/my_tf_pkg:/home/raaid/ros2_ws/install/my_py_pkg:/home/raaid/ros2_ws/src/install/my_tf_pkg:/home/raaid/ros2_ws/src/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/raaid/linorobot2_ws/build/linorobot2_gazebo
